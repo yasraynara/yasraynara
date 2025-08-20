@@ -122,4 +122,11 @@ Meu nome é Yasmin Raynara, tenho 25 anos e sou de São Paulo. Atualmente, curso
 />
 </div>
 
+## 🎯 Me siga nas redes sociais
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmimraynara/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasraynara)
+[![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yasminraynara/badges)
+
+
+
 
