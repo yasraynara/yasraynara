@@ -4,12 +4,10 @@
 **`Desenvolvedora`**
 
 ## BR Portugues |
-Meu nome é Yasmin Raynara, tenho 25 anos e sou de São Paulo. Atualmente, curso engenharia da computação na UNIVESP. Sou apaixonada por tecnologia e programação.
+Meu nome é Yasmin Raynara, tenho 25 anos e sou de São Paulo. Atualmente, curso engenharia da computação na UNIVESP e sou estágiaria no Itaú na área de Dados. Sou apaixonada por tecnologia e programação.
 
 ### 💡 Interesses 
 
-- 🔭 Sou estagiaria no Itaú na área de Dados
-- 🌱 Estou me formando em Engenharia da Computação
 - 📚 **Livros & Desenvolvimento Pessoal**: Leitura transforma!
 - 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
 - ⛪ **Igreja**: Minha fé é parte importante da minha vida.
@@ -17,6 +15,7 @@ Meu nome é Yasmin Raynara, tenho 25 anos e sou de São Paulo. Atualmente, curso
 
 
 ## 💻 Tecnologias e ferramentas
+
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
