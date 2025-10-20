@@ -1,5 +1,5 @@
 ## Oi Devs 👋
-# 👩🏻‍💻 Yasmin Raynara
+# 👩🏻‍💻 Yasmim Raynara
 
 **`Desenvolvedora`**
 
