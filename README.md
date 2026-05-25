@@ -1,17 +1,19 @@
-## Oi Devs 👋
+## Olá Devs 👋
 # 👩🏻‍💻 Yasmim Raynara
 
 **`Desenvolvedora`**
 
 ## BR Portugues |
-Meu nome é Yasmin Raynara, tenho 25 anos e sou de São Paulo. Atualmente, curso engenharia da computação na UNIVESP e sou estágiaria no Itaú na área de Dados. Sou apaixonada por tecnologia e programação.
+Meu nome é Yasmim Raynara, sou de São Paulo. Atualmente, estou me graduando em Engenharia da Computação pela UNIVESP e técnica em Desenvolvimento de Sistemas pela ETEC Lauro Gomes. 
 
-### 💡 Interesses 
+### 💡 Interesses
 
-- 📚 **Livros & Desenvolvimento Pessoal**: Leitura transforma!
-- 🧠 **Crescimento pessoal**: Sempre buscando evoluir 
-- ⛪ **Igreja**: Minha fé é parte importante da minha vida.
-- 🍽️ **Brunch e Gastronomia**: Amo sair para comer — especialmente comida brasileira, italiana, francesa e japonesa!
+<ul>
+    <li>Data Analytics</li>
+    <li>Cloud Computing</li>
+    <li>Arquitetura de Dados</li>
+    <li>Automação de Processos</li>
+</ul>
 
 
 ## 💻 Tecnologias e ferramentas
