@@ -108,21 +108,6 @@ Meu nome é Yasmim Raynara, sou de São Paulo. Atualmente, estou me graduando em
 <br> 
 
 
-### 📊 Estatísticas
-<div align="center">
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  style="margin-bottom: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=yasraynara&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasraynara&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</div>
-
 ## 🎯 Me siga nas redes sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmimraynara/)
 [![Credly](https://img.shields.io/badge/credly-303F9F.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yasminraynara/badges)
